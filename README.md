@@ -74,8 +74,3 @@ python peptide_solubility.py
 ## 许可证
 
 MIT License
-
-
-在提示符下输入单字母氨基酸序列（如 `ACDEFGHIK`），输入 `q` 或 `quit` 退出。
-
-### 示例输出
