@@ -20,7 +20,7 @@
 **运行环境要求：** Python 3.6+，无需安装任何第三方依赖。
 
 ```bash
-python peptide_solubility.py
+python3 peptide_solubility.py
 ```
 
 在提示符下输入单字母氨基酸序列（如 `ACDEFGHIK`），输入 `q` 或 `quit` 退出。
